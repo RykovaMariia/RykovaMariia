@@ -1,15 +1,17 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-<h3 align="center">Connect with me:</h3>
-<div align="center" id="badges">
+- 🌱 I’m currently learning Angular
+
+<h2 align="left">Connect with me:</h2>
+<div align="left" id="badges">
   <a href="https://t.me/Unicorn_mary" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a>
   <a href="mailto:maryrykova24@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Telegram"/> </a>
   <a href="https://www.linkedin.com/in/mariia-rykova-81162b250/" target="_blank" title="Linkedin"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin"/> </a>
 </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=RykovaMariia&style=flat-square&color=blue" alt=""/></div>
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=RykovaMariia&style=flat-square&color=blue" alt=""/></div>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<h2 align="left">Languages and Tools:</h2>
+<p align="left"> 
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank" title="HTML5"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" title="CSS3"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://sass-lang.com" target="_blank" title="Sass"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
@@ -27,10 +29,12 @@
   <a href="https://postman.com" target="_blank" title="postman"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.netlify.com/" target="_blank" title="Netlify"> <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40"/> </a>
 </p>
-<h3 align="center">My Stats:</h3>
+<h2 align="left">My Stats:</h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RykovaMariia)](https://git.io/streak-stats) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RykovaMariia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **RykovaMariia/RykovaMariia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
