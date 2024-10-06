@@ -10,7 +10,7 @@
 </div>
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=RykovaMariia&style=flat-square&color=blue" alt=""/></div>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">My Tech Stack:</h2>
 <p align="left"> 
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank" title="HTML5"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" title="CSS3"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
