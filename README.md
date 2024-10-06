@@ -24,10 +24,11 @@
  <a href="https://angular.dev/" target="_blank" title="Angular"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/> </a>
   <a href="https://rxjs.dev/" target="_blank" title="rxjs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" alt="rxjs" width="40" height="40"/> </a>
   <a href="https://ngrx.io/" target="_blank" title="ngrx"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrx/ngrx-original.svg" alt="ngrx" width="40" height="40"/> </a>
-  <a href="https://mui.com/material-ui/" target="_blank" title="material-ui"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40"/> </a>
-   <a href="https://jestjs.io/" target="_blank" title="jest"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> </a>
+  <a href="https://material.angular.io/" target="_blank" title="Material"> <img src="https://material.angular.io/assets/img/favicons/favicon.ico" alt="material" width="40" height="40"/> </a>
+  <a href="https://taiga-ui.dev/" target="_blank" title="Taiga-ui"> <img src="https://taiga-ui.dev/assets/images/taiga.svg" alt="taiga-ui" width="40" height="40"/> </a>
+  <a href="https://jestjs.io/" target="_blank" title="jest"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> </a>
 
- <a href="https://vuejs.org/" target="_blank" title="Vuejs"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vuejs" width="40" height="40"/> </a>
+  <a href="https://vuejs.org/" target="_blank" title="Vuejs"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vuejs" width="40" height="40"/> </a>
   <a href="https://pinia.vuejs.org" target="_blank" title="Pinia"> <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" width="40" height="40"/> </a>
   <a href="https://vitejs.dev/" target="_blank" title="Vite"> <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40"/> </a>
   <a href="https://vuetifyjs.com/en/" target="_blank" title="Vuetify"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" alt="Vuetify" width="40" height="40"/> </a>
